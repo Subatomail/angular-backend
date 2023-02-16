@@ -1,0 +1,38 @@
+{
+  "facesnaps": [
+        {
+        "id": 1,
+      "title": "Corgi",
+      "description":"Mon meilleur ami",
+      "createdDate" :"Mon Feb 17 2023 16:51:42 GMT+0100 (Central European Standard Time)",
+      "likes":2000,
+      "imageUrl":"https://cdn.pixabay.com/photo/2021/10/01/18/53/corgi-6673343_960_720.jpg",
+      "location":"Paris"
+      },
+      {
+        "id": 2,
+      "title": "Autel",
+      "description":"Une belle image",
+      "createdDate" :"Mon Feb 17 2023 16:51:42 GMT+0100 (Central European Standard Time)",
+      "likes":5,
+      "imageUrl":"https://cdn.pixabay.com/photo/2023/01/23/23/20/altar-7739897_960_720.jpg"
+      },
+      {
+        "id": 3,
+      "title": "Foret",
+      "description":"Une image d'une foret",
+      "createdDate" :"Mon Feb 17 2023 16:51:42 GMT+0100 (Central European Standard Time)",
+      "likes":12,
+      "imageUrl":"https://cdn.pixabay.com/photo/2022/12/21/13/27/forest-7670068_960_720.jpg",
+      "location":"Quebec"
+      },
+      {
+        "id": 4,
+      "title": "Cigne",
+      "description":"Un oiseau aquatique",
+      "createdDate" :"Mon Feb 17 2023 16:51:42 GMT+0100 (Central European Standard Time)",
+      "likes":3,
+      "imageUrl":"https://cdn.pixabay.com/photo/2022/11/21/12/24/swan-7606921_960_720.jpg"
+      }
+    ]
+}
